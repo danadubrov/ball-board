@@ -1,0 +1,52 @@
+
+*{
+    text-align: center;
+}
+body {
+    background-image: url("https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/rm218batch9-mynt-03.jpg?bg=transparent&con=3&cs=srgb&dpr=1&fm=jpg&ixlib=php-3.1.0&q=80&usm=15&vib=3&w=1300&s=ee2fb6058ad65e43ab528412f80ac5b3");
+    background-size: cover;
+}
+.title{
+    color: rgb(74,139,235);
+    font-size: 80px;
+    margin: 5px;
+}
+.counter{
+    margin: 5px;
+    font-size: 50px;
+    color: goldenrod;
+}
+
+.table{
+    margin: auto;
+}
+
+
+.cell {
+    width:50px; 
+    height:50px;
+    font-size: 30px;
+}
+
+.floor {
+    background-color: rgb(123,192,245,0.4);
+}
+.wall {
+    background-color: rgb(74,139,235,0.4);
+}
+
+.restart button{
+    font-size: 30px;
+    border-radius: 10px;
+    outline: none;
+    cursor: pointer;
+    border: 3px solid gray;
+    color: gray;
+}
+.restart button:hover{
+    border: 3px solid #E270A4;
+    color: #E270A4;
+}
+
+
+
